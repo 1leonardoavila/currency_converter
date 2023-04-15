@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img src=".assets/preview(1).jpg" width="100%">
+  <img src=".assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
