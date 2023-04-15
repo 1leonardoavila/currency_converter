@@ -42,7 +42,7 @@ const options = {
     height: 350,
     type: "area",
     toolbar: {
-      show: true,
+      show: false,
     },
   },
   dataLabels: {
